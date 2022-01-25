@@ -1,0 +1,26 @@
+body{
+	background-image:url("images/fon.jpg");
+	background-size:cover;
+}
+article{
+	font-size:15px;
+}
+.main{
+	border: 10px solid #008c8c;
+	border-radius:15%;
+	padding-left:50px;
+	width:30%;
+	margin-left:33%;
+	margin-top:10%;
+}
+.problem{
+	margin-left: 36%;
+}
+table{
+	font-size:15px;
+	background-color:#c9fefe;
+	border: 2px solid #008c8c;
+	border-radius:5%;
+	margin-top:15px;
+	margin-left:36%;
+}
